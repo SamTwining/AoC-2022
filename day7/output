@@ -1,0 +1,106 @@
+{
+    "name": "/",
+    "children": [
+        {
+            "name": "a",
+            "children": [],
+            "type": 0,
+            "size": 0
+        },
+        {
+            "name": "/b.txt",
+            "children": [],
+            "type": 1,
+            "size": 14848514
+        },
+        {
+            "name": "/c.dat",
+            "children": [],
+            "type": 1,
+            "size": 8504156
+        },
+        {
+            "name": "d",
+            "children": [],
+            "type": 0,
+            "size": 0
+        },
+        {
+            "name": "/a/",
+            "children": [
+                {
+                    "name": "e",
+                    "children": [],
+                    "type": 0,
+                    "size": 0
+                },
+                {
+                    "name": "/a/f",
+                    "children": [],
+                    "type": 1,
+                    "size": 29116
+                },
+                {
+                    "name": "/a/g",
+                    "children": [],
+                    "type": 1,
+                    "size": 2557
+                },
+                {
+                    "name": "/a/h.lst",
+                    "children": [],
+                    "type": 1,
+                    "size": 62596
+                },
+                {
+                    "name": "/a/e/",
+                    "children": [
+                        {
+                            "name": "/a/e/i",
+                            "children": [],
+                            "type": 1,
+                            "size": 584
+                        },
+                        {
+                            "name": "/a/e/d/",
+                            "children": [
+                                {
+                                    "name": "/a/e/d/j",
+                                    "children": [],
+                                    "type": 1,
+                                    "size": 4060174
+                                },
+                                {
+                                    "name": "/a/e/d/d.log",
+                                    "children": [],
+                                    "type": 1,
+                                    "size": 8033020
+                                },
+                                {
+                                    "name": "/a/e/d/d.ext",
+                                    "children": [],
+                                    "type": 1,
+                                    "size": 5626152
+                                },
+                                {
+                                    "name": "/a/e/d/k",
+                                    "children": [],
+                                    "type": 1,
+                                    "size": 7214296
+                                }
+                            ],
+                            "type": 0,
+                            "size": 0
+                        }
+                    ],
+                    "type": 0,
+                    "size": 0
+                }
+            ],
+            "type": 0,
+            "size": 0
+        }
+    ],
+    "size": 0,
+    "type": 0
+}
